@@ -2,7 +2,7 @@
 layout: post
 title: "来自博主的一封信——致每一个我们"
 date:   2024-1-25
-tags: [notice]
+tags: [notice][distribution]
 comments: true
 author: pianfan
 ---
@@ -27,4 +27,4 @@ author: pianfan
 
 接下来的日子里，让我们一起，共同进步，见证成长，合力打造一个**平等、友好、开放、极简**的技术博客环境！
 
-作者：翩帆，转载至 https://pianfan.github.io/
+作者：翩帆，转载自 https://pianfan.github.io/

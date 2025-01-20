@@ -2,7 +2,7 @@
 layout: post
 title: "零基础小白如何搭建自己的 github.io 个人网站"
 date:   2024-1-27
-tags: [web]
+tags: [web][distribution]
 comments: true
 author: pianfan
 ---
@@ -135,4 +135,4 @@ author: pianfan
 
 感谢阅读！
 
-作者：翩帆，转载至 https://pianfan.github.io/
+作者：翩帆，转载自 https://pianfan.github.io/
