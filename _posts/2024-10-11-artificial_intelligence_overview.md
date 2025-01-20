@@ -10,17 +10,16 @@ author: MilleXi
 <!-- more -->
 
 ## 一、人工智能热潮
+
 大家应该都知道，最近诺贝尔奖的颁发再次引发了全球的广泛关注，其中物理学和化学的诺贝尔奖都与人工智能领域有着密切的联系。化学奖授予了英国科学家、AlphaFold开发者、DeepMind公司CEO**戴米斯·哈萨比斯（Demis Hassabis）**和其高级研究科学家**约翰·江珀（John M. Jumper）**，以表彰他们通过机器学习成功预测蛋白质结构，解决了困扰科学界50年的难题。
 
-<img src="https://millexi.github.io/images/1.png" alt="Demis Hassabis & John M. Jumper" style="display: block; margin: 0 auto; width: 50%; max-width: 600px; height: auto;">
-
+<img src="https://millexi.github.io/images/1.png" alt="Demis Hassabis & John M. Jumper" style="display: block; margin: 0 auto; width: 50%; max-width: 500px; height: auto;">
 
 与此同时，2024年诺贝尔物理学奖授予了美国科学家**约翰·约瑟夫·霍普菲尔德（John J. Hopfield）**和加拿大科学家**杰弗里·辛顿（Geoffrey E. Hinton）**，表彰他们在人工神经网络和机器学习领域的基础性贡献。自20世纪80年代起，霍普菲尔德和辛顿就开展了与物理学和神经网络相关的开创性研究。霍普菲尔德最著名的研究成果是Hopfield神经网络，这是一种递归神经网络，通过能量最小化的方式存储和检索信息，广泛应用于联想记忆和组合优化问题。而辛顿则以推广反向传播算法著称，反向传播算法通过计算误差梯度来调整神经网络中的权重，极大地推动了深度神经网络的发展，使机器学习取得了长足进展。两位科学家的研究共同奠定了现代机器学习的基础。
 
-![John J. Hopfield & Geoffrey E. Hinton](https://millexi.github.io/images/2.png)
+<img src="https://millexi.github.io/images/2.png" alt="John J. Hopfield & Geoffrey E. Hinton" style="display: block; margin: 0 auto; width: 50%; max-width: 500px; height: auto;">
 
 这些成就不仅是对他们个人的巨大认可，也再次彰显了人工智能在当今科学领域中的深远影响力。AI已经不再是一个理论概念，它如今正在推动各个领域的变革，从生物化学到物理学，AI正展现出其前所未有的潜力。
-人工智能的热潮
 
 如今，人工智能的应用无处不在，生活中我们每天都在与AI打交道，比如大家熟悉的ChatGPT，它可以帮助我们生成文本、回答问题，甚至进行复杂的对话。AI的热潮不仅限于对话系统，它已经广泛应用于自动驾驶、图像识别、医疗诊断等众多领域，AI似乎已经成为不可或缺的一部分。
 
@@ -29,19 +28,20 @@ author: MilleXi
 ---
 
 ## 二、人工智能发展历程
+
 接下来，我们将深入了解人工智能的历史背景，重点介绍它如何从最初的理论探索走向今天的广泛应用，其中一个重要的里程碑就是图灵测试，它是AI能否具备智能的重要标志之一。
 
 ### 1950年：图灵测试的提出
+
 **艾伦·图灵（Alan Turing）**是AI领域的先驱之一。他在1950年提出了一个著名的问题：“机器能思考吗？”在他的论文《计算机器与智能》中，图灵提出了一种方法来检验机器是否具有智能，这就是后来被称为 **“图灵测试”** 的概念。
 
-![Alan Turing](https://millexi.github.io/images/3.png)
+<img src="https://millexi.github.io/images/3.png" alt="Alan Turing" style="display: block; margin: 0 auto; width: 50%; max-width: 500px; height: auto;">
 
 图灵测试的核心思想是，如果一个人通过文字交流无法分辨出是在和人类还是机器交谈，那么这台机器就可以被认为具备了“智能”。这虽然不是衡量机器智能的唯一标准，但它引发了人们对机器智能本质的深入思考。
 
-![The Turing Test](https://millexi.github.io/images/4.png)
+<img src="https://millexi.github.io/images/4.png" alt="The Turing Test" style="display: block; margin: 0 auto; width: 50%; max-width: 500px; height: auto;">
 
 在图灵的时代，计算机的能力非常有限，连基本的对话模拟都无法实现。然而，图灵的思想极具前瞻性，它预示了人工智能领域未来的发展方向。时至今日，许多AI模型和聊天机器人（如GPT系列）都被用来测试是否能够通过图灵测试。
-
 
 #### 小实验
 
@@ -53,40 +53,45 @@ author: MilleXi
 
 让我们揭晓答案，事实上这两段都是由AI生成的，前者是Chatgpt，后者则是豆包。
 
-
 ### 20世纪50-70年代：早期探索与挫折
+
 在图灵提出测试后，AI开始成为一个正式的研究领域。20世纪50年代，随着计算机硬件的进步，研究人员开始尝试用机器解决数学难题、进行象棋对弈等简单任务。这个时期的一些经典成就是：
 
 - 1956年，达特茅斯会议被认为是人工智能正式诞生的标志
-![Dartmouth Summer Research Project on Artificial Intelligence](https://millexi.github.io/images/5.png)
+
+<img src="https://millexi.github.io/images/5.png" alt="Dartmouth Summer Research Project on Artificial Intelligence" style="display: block; margin: 0 auto; width: 50%; max-width: 500px; height: auto;">
 
 - 1966年，ELIZA程序诞生，这是一个简单的对话系统，模仿心理医生的语气进行对话
-![ELIZA](https://millexi.github.io/images/6.png)
+
+<img src="https://millexi.github.io/images/6.png" alt="ELIZA" style="display: block; margin: 0 auto; width: 50%; max-width: 500px; height: auto;">
 
 然而，由于技术受限和人们对AI能力的过高期望，到了70年代，AI研究进入了第一个“寒冬”，资金和兴趣的减少使得AI的发展速度放缓。
 
 
 ### 20世纪80-90年代：知识推理与专家系统
+
 随着计算机技术的进步，AI研究在80年代迎来了第二次热潮。这个时期的重点是专家系统，它们模拟人类专家的知识和推理过程，帮助解决特定领域的问题，例如医学诊断和金融分析。专家系统能够存储大量的知识库，并通过逻辑推理得出结论。
 
-![Expert Systems](https://millexi.github.io/images/7.png)
+<img src="https://millexi.github.io/images/7.png" alt="Expert Systems" style="display: block; margin: 0 auto; width: 50%; max-width: 500px; height: auto;">
 
 尽管专家系统在特定领域表现出色，但由于它们对特定领域知识的高度依赖，通用性较差，AI再次进入低谷期。
 
-
 ### 21世纪初：机器学习与深度学习的崛起
+
 真正推动AI复兴的，是机器学习和深度学习技术的发展。这些技术的关键在于它们依赖于数据和模型的训练能力，而不是预定义的规则。2006年，深度学习（Deep Learning）的兴起彻底改变了AI的发展方向。通过多层神经网络，AI不仅能够识别图像，还能够处理语音、文本等复杂数据。
 
 在这些进步的背后，计算能力的飞跃和大数据的积累是不可忽视的推动力。如今，AI在图像识别、语音识别、自动驾驶、自然语言处理等领域取得了巨大的进步。
 
-![AI Map](https://millexi.github.io/images/8.png)
+<img src="https://millexi.github.io/images/8.png" alt="AI Map" style="display: block; margin: 0 auto; width: 50%; max-width: 500px; height: auto;">
 
 从图灵测试到现代AI，我们来总结一下，从图灵测试的提出，到如今AI已经能够模拟出复杂的语言对话、处理图像并作出智能决策，人工智能的发展历程充满了挑战与突破。图灵所提出的问题，至今仍然是AI领域的核心之一：机器是否能像人一样思考？接下来，我们将进一步深入探讨现代AI的核心技术和应用领域。
 
 ---
 
 ## 三、深度技术剖析
+
 - **偏应用的前沿AI研究方向：**
+
     1. 个性化医疗AI（Personalized Medicine AI）-- 利用AI对患者进行个性化治疗方案的预测和生成。
 
     2. 自动驾驶感知与决策（Autonomous Driving Perception and Decision-Making）-- 提升自动驾驶车辆的实时感知能力和复杂决策系统。
@@ -107,8 +112,8 @@ author: MilleXi
 
     10. 网络安全中的AI（AI for Cybersecurity）-- 研究AI如何用于入侵检测、恶意软件分析和网络威胁的实时响应。
 
-
 - **偏理论的前沿AI研究方向：**
+
     1. 对比学习（Contrastive Learning）-- 利用对比目标在无监督学习中学习有意义的表征。
 
     2. 自监督学习（Self-Supervised Learning）--无需大规模人工标注数据进行高效学习的技术。
@@ -129,12 +134,12 @@ author: MilleXi
 
     10. 持续学习（Continual Learning）-- 让AI系统在不遗忘旧任务的情况下，连续学习新任务。
 
-
 ### 机器学习：数据驱动的智能
 
 **机器学习**是人工智能的基础，通过大量的数据驱动让模型学习模式，优化决策过程。其核心思想是让机器在没有明确规则的情况下，从数据中自动学习。例如，股票价格预测，通过历史市场数据来寻找价格的趋势模式，而在医疗诊断中，机器学习可以通过大量的医学影像数据，找到特定疾病的特征。
 
-![ML](https://millexi.github.io/images/9.png)
+<img src="https://millexi.github.io/images/9.png" alt="ML" style="display: block; margin: 0 auto; width: 50%; max-width: 500px; height: auto;">
+
 
 1. **线性回归 (Linear Regression)** -- 适用于连续型目标变量的预测，基于输入特征与目标变量之间的线性关系。最常用于经济预测、风险评估等。
 
@@ -164,12 +169,15 @@ author: MilleXi
 
 14. **XGBoost (Extreme Gradient Boosting)** -- 一种基于梯度提升的高效实现，性能出色，常用于数据竞赛、结构化数据的回归和分类任务。
 
-![ML](https://millexi.github.io/images/10.png)
+<img src="https://millexi.github.io/images/10.png" alt="ML" style="display: block; margin: 0 auto; width: 50%; max-width: 500px; height: auto;">
+
 
 下面是一个简单的逻辑回归示例的结果
-<video src="https://millexi.github.io/images/download.mp4" controls="controls" width="600" height="600"></video>
+
+<video src="https://millexi.github.io/images/download.mp4" controls="controls" width="600" height="600" style="display: block; margin: 0 auto;"></video>
 
 *相关逻辑回归演示代码：*
+
 - [github 链接](https://github.com/MilleXi/MilleXi.github.io/logistic_regression_code.ipynb>)
 
 or
@@ -178,13 +186,16 @@ or
 
 
 ### 深度学习：模仿人类大脑的神经网络
-![DL](https://millexi.github.io/images/11.png)
+
+<img src="https://millexi.github.io/images/11.png" alt="DL" style="display: block; margin: 0 auto; width: 50%; max-width: 500px; height: auto;">
 
 **深度学习**是**机器学习**的一个子集，采用的是人工神经网络的结构，特别擅长处理复杂的非线性问题。它通过层层抽象的方式，逐步从输入数据中提取特征。
-![Neural Network](https://millexi.github.io/images/12.png)
+
+<img src="https://millexi.github.io/images/12.png" alt="Neural Network" style="display: block; margin: 0 auto; width: 50%; max-width: 500px; height: auto;">
 
 一个经典的例子就是**卷积神经网络 (CNN)**，它专门用于处理图像数据。
-![CNN](https://millexi.github.io/images/13.png)
+
+<img src="https://millexi.github.io/images/13.png" alt="CNN" style="display: block; margin: 0 auto; width: 50%; max-width: 500px; height: auto;">
 
 **CNN的工作原理**：CNN的核心是卷积层和池化层。卷积层通过卷积核扫描图像，提取低级特征如边缘、颜色等，而池化层则缩减数据的维度，保留重要信息。随着网络层数的增加，CNN可以提取更高级的特征，如物体形状、结构等。
 
@@ -192,8 +203,8 @@ or
 
 ---
 
-
 ## 四、热门前沿技术与研究方向(部分)
+
 1. **自然语言处理 (NLP)** -- Transformer
 
     自然语言处理让机器能够理解和生成人类语言，背后的技术尤其复杂，因为语言涉及语法、语义、上下文等多层次的信息处理。一个关键的突破是Transformer模型，它利用自注意力机制（Self-Attention）来处理文本中的长距离依赖关系。
@@ -229,6 +240,7 @@ or
 ---
 
 ## 五、AI学习与实践平台
+
 1. [Hugging Face](https://huggingface.co)
 
     介绍：Hugging Face是一个开源社区和平台，提供了大量预训练的NLP模型。
