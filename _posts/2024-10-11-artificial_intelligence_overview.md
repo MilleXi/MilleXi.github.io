@@ -12,7 +12,8 @@ author: MilleXi
 ## 一、人工智能热潮
 大家应该都知道，最近诺贝尔奖的颁发再次引发了全球的广泛关注，其中物理学和化学的诺贝尔奖都与人工智能领域有着密切的联系。化学奖授予了英国科学家、AlphaFold开发者、DeepMind公司CEO**戴米斯·哈萨比斯（Demis Hassabis）**和其高级研究科学家**约翰·江珀（John M. Jumper）**，以表彰他们通过机器学习成功预测蛋白质结构，解决了困扰科学界50年的难题。
 
-![Demis Hassabis & John M. Jumper](https://millexi.github.io/images/1.png)
+<img src="https://millexi.github.io/images/1.png" alt="Demis Hassabis & John M. Jumper" style="width: 50%; max-width: 600px; height: auto;">
+
 
 与此同时，2024年诺贝尔物理学奖授予了美国科学家**约翰·约瑟夫·霍普菲尔德（John J. Hopfield）**和加拿大科学家**杰弗里·辛顿（Geoffrey E. Hinton）**，表彰他们在人工神经网络和机器学习领域的基础性贡献。自20世纪80年代起，霍普菲尔德和辛顿就开展了与物理学和神经网络相关的开创性研究。霍普菲尔德最著名的研究成果是Hopfield神经网络，这是一种递归神经网络，通过能量最小化的方式存储和检索信息，广泛应用于联想记忆和组合优化问题。而辛顿则以推广反向传播算法著称，反向传播算法通过计算误差梯度来调整神经网络中的权重，极大地推动了深度神经网络的发展，使机器学习取得了长足进展。两位科学家的研究共同奠定了现代机器学习的基础。
 
@@ -229,7 +230,7 @@ or
 
 ## 五、AI学习与实践平台
 1. [Hugging Face](https://huggingface.co)
-    
+
     介绍：Hugging Face是一个开源社区和平台，提供了大量预训练的NLP模型。
 
     应用：学生可以利用该平台的模型进行文本分类、翻译、文本生成等任务。
