@@ -125,7 +125,7 @@ author: MilleXi
 
     <img src="https://millexi.github.io/images/30.png" alt="jupyter1" style="display: block; margin: 0 auto;width: 95%; max-width: 800px; height: auto;">
 
-## 开始一个新代码文件！
+## 四、开始一个新代码文件！
 
 1. 点开右侧导航栏中如下图红框中的按钮
 
@@ -171,7 +171,7 @@ author: MilleXi
 
 ！恭喜踏入Python的世界 ~ ✨
 
-## 开始一个新的Jupyter Notebook文件!（可选）
+## 五、开始一个新的Jupyter Notebook文件!（可选）
 
 1. 同样在VSCode侧边文件夹内创建一个test_jupyter.ipynb文件
     
