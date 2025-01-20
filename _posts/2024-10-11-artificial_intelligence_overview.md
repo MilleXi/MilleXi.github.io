@@ -57,11 +57,11 @@ author: MilleXi
 
 在图灵提出测试后，AI开始成为一个正式的研究领域。20世纪50年代，随着计算机硬件的进步，研究人员开始尝试用机器解决数学难题、进行象棋对弈等简单任务。这个时期的一些经典成就是：
 
-- 1956年，达特茅斯会议被认为是人工智能正式诞生的标志
+- 1956年，**达特茅斯会议**被认为是人工智能正式诞生的标志
 
 <img src="https://millexi.github.io/images/5.png" alt="Dartmouth Summer Research Project on Artificial Intelligence" style="display: block; margin: 0 auto; width: 50%; max-width: 500px; height: auto;">
 
-- 1966年，ELIZA程序诞生，这是一个简单的对话系统，模仿心理医生的语气进行对话
+- 1966年，**ELIZA程序**诞生，这是一个简单的对话系统，模仿心理医生的语气进行对话
 
 <img src="https://millexi.github.io/images/6.png" alt="ELIZA" style="display: block; margin: 0 auto; width: 50%; max-width: 500px; height: auto;">
 
@@ -70,7 +70,7 @@ author: MilleXi
 
 ### 3. 20世纪80-90年代：知识推理与专家系统
 
-随着计算机技术的进步，AI研究在80年代迎来了第二次热潮。这个时期的重点是专家系统，它们模拟人类专家的知识和推理过程，帮助解决特定领域的问题，例如医学诊断和金融分析。专家系统能够存储大量的知识库，并通过逻辑推理得出结论。
+随着计算机技术的进步，AI研究在80年代迎来了第二次热潮。这个时期的重点是**专家系统**，它们模拟人类专家的知识和推理过程，帮助解决特定领域的问题，例如医学诊断和金融分析。专家系统能够存储大量的知识库，并通过逻辑推理得出结论。
 
 <img src="https://millexi.github.io/images/7.png" alt="Expert Systems" style="display: block; margin: 0 auto; width: 50%; max-width: 500px; height: auto;">
 
@@ -78,7 +78,7 @@ author: MilleXi
 
 ### 4. 21世纪初：机器学习与深度学习的崛起
 
-真正推动AI复兴的，是机器学习和深度学习技术的发展。这些技术的关键在于它们依赖于数据和模型的训练能力，而不是预定义的规则。2006年，深度学习（Deep Learning）的兴起彻底改变了AI的发展方向。通过多层神经网络，AI不仅能够识别图像，还能够处理语音、文本等复杂数据。
+真正推动AI复兴的，是**机器学习**和**深度学习**技术的发展。这些技术的关键在于它们依赖于数据和模型的训练能力，而不是预定义的规则。2006年，深度学习（Deep Learning）的兴起彻底改变了AI的发展方向。通过多层神经网络，AI不仅能够识别图像，还能够处理语音、文本等复杂数据。
 
 在这些进步的背后，计算能力的飞跃和大数据的积累是不可忽视的推动力。如今，AI在图像识别、语音识别、自动驾驶、自然语言处理等领域取得了巨大的进步。
 
@@ -171,7 +171,7 @@ author: MilleXi
 
 <img src="https://millexi.github.io/images/10.png" alt="ML" style="display: block; margin: 0 auto; width: 50%; max-width: 500px; height: auto;">
 
-下面是一个简单的逻辑回归示例的结果：
+下面是一个简单的逻辑回归示例的结果展示：
 
 <video src="https://millexi.github.io/images/download.mp4" controls="controls" width="600" height="600" style="display: block; margin: 0 auto;"></video>
 
