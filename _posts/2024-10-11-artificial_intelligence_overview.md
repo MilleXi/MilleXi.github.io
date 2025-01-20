@@ -35,7 +35,7 @@ author: MilleXi
 
 **艾伦·图灵（Alan Turing）**是AI领域的先驱之一。他在1950年提出了一个著名的问题：“机器能思考吗？”在他的论文《计算机器与智能》中，图灵提出了一种方法来检验机器是否具有智能，这就是后来被称为 **“图灵测试”** 的概念。
 
-<img src="https://millexi.github.io/images/3.png" alt="Alan Turing" style="display: block; margin: 0 auto; width: 50%; max-width: 500px; height: auto;">
+<img src="https://millexi.github.io/images/14.png" alt="Alan Turing" style="display: block; margin: 0 auto; width: 50%; max-width: 500px; height: auto;">
 
 图灵测试的核心思想是，如果一个人通过文字交流无法分辨出是在和人类还是机器交谈，那么这台机器就可以被认为具备了“智能”。这虽然不是衡量机器智能的唯一标准，但它引发了人们对机器智能本质的深入思考。
 
@@ -138,7 +138,7 @@ author: MilleXi
 
 **机器学习**是人工智能的基础，通过大量的数据驱动让模型学习模式，优化决策过程。其核心思想是让机器在没有明确规则的情况下，从数据中自动学习。例如，股票价格预测，通过历史市场数据来寻找价格的趋势模式，而在医疗诊断中，机器学习可以通过大量的医学影像数据，找到特定疾病的特征。
 
-<img src="https://millexi.github.io/images/9.png" alt="ML" style="display: block; margin: 0 auto; width: 50%; max-width: 500px; height: auto;">
+<img src="https://millexi.github.io/images/15.png" alt="ML" style="display: block; margin: 0 auto; width: 50%; max-width: 500px; height: auto;">
 
 
 1. **线性回归 (Linear Regression)** -- 适用于连续型目标变量的预测，基于输入特征与目标变量之间的线性关系。最常用于经济预测、风险评估等。
