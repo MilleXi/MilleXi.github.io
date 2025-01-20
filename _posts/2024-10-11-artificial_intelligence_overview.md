@@ -2,7 +2,7 @@
 layout: post
 title: "人工智能概述"
 date:   2024-10-11
-tags: [web]
+tags: [lecture]
 comments: true
 author: MilleXi
 ---
