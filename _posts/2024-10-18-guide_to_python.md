@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "python安装与配置指南"
-date:   2024-10-11
+date:   2024-10-17
 tags: [tech]
 comments: true
 author: MilleXi
