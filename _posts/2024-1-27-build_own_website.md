@@ -9,6 +9,7 @@ author: pianfan
 
 ###### 说明：本教程只针对不了解网站搭建并且想要快速搭建起个人博客的新手，帮助建立网站的平台有很多，有一定网站开发基础的读者可另寻门路
 
+###### 原作者：翩帆，转载自 https://pianfan.github.io/build_own_website/
 <!-- more -->
 
 ### 目录
@@ -134,5 +135,3 @@ author: pianfan
 ---
 
 感谢阅读！
-
-作者：翩帆，转载自 https://pianfan.github.io/
