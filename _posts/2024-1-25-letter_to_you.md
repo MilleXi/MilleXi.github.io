@@ -6,7 +6,7 @@ tags: [distribution]
 comments: true
 author: pianfan
 ---
-原作者：作者：翩帆，转载自 https://pianfan.github.io/letter_to_you/
+原作者：翩帆，转载自 https://pianfan.github.io/letter_to_you/
 
 首先，欢迎你来到我的博客，不论你是谁。我并不关心你的身份，你也不必关注我的身份。实际上我只是中国千千万万计算机相关专业大学生中普通的一员而已。但所谓英雄不论出处，在这里，我们只关心技术。
 
@@ -27,5 +27,3 @@ author: pianfan
 非常感谢你阅读本篇文章。如果你在阅读教程类文章的过程中遇到什么问题，或是有其他需求，比如希望我出新的教程之类的，都可以进入 [issues](https://github.com/pianfan/pianfan.github.io/issues) 向社区提问或发布你的需求，博主一定会认真查看，而且说不定会有其他大佬回答你的问题。
 
 接下来的日子里，让我们一起，共同进步，见证成长，合力打造一个**平等、友好、开放、极简**的技术博客环境！
-
-作者：翩帆，转载自 https://pianfan.github.io/
