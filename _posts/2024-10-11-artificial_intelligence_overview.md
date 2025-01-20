@@ -12,11 +12,11 @@ author: MilleXi
 ## 人工智能热潮
 大家应该都知道，最近诺贝尔奖的颁发再次引发了全球的广泛关注，其中物理学和化学的诺贝尔奖都与人工智能领域有着密切的联系。化学奖授予了英国科学家、AlphaFold开发者、DeepMind公司CEO**戴米斯·哈萨比斯（Demis Hassabis）**和其高级研究科学家**约翰·江珀（John M. Jumper）**，以表彰他们通过机器学习成功预测蛋白质结构，解决了困扰科学界50年的难题。
 
-![Demis Hassabis & John M. Jumper](https://millexi.github.io/images/1.png#pic_center =600x600)
+![Demis Hassabis & John M. Jumper](https://millexi.github.io/images/1.png =60*60)
 
 与此同时，2024年诺贝尔物理学奖授予了美国科学家**约翰·约瑟夫·霍普菲尔德（John J. Hopfield）**和加拿大科学家**杰弗里·辛顿（Geoffrey E. Hinton）**，表彰他们在人工神经网络和机器学习领域的基础性贡献。自20世纪80年代起，霍普菲尔德和辛顿就开展了与物理学和神经网络相关的开创性研究。霍普菲尔德最著名的研究成果是Hopfield神经网络，这是一种递归神经网络，通过能量最小化的方式存储和检索信息，广泛应用于联想记忆和组合优化问题。而辛顿则以推广反向传播算法著称，反向传播算法通过计算误差梯度来调整神经网络中的权重，极大地推动了深度神经网络的发展，使机器学习取得了长足进展。两位科学家的研究共同奠定了现代机器学习的基础。
 
-![John J. Hopfield & Geoffrey E. Hinton](https://millexi.github.io/images/2.png#pic_center =600x600)
+![John J. Hopfield & Geoffrey E. Hinton](https://millexi.github.io/images/2.png)
 
 这些成就不仅是对他们个人的巨大认可，也再次彰显了人工智能在当今科学领域中的深远影响力。AI已经不再是一个理论概念，它如今正在推动各个领域的变革，从生物化学到物理学，AI正展现出其前所未有的潜力。
 人工智能的热潮
@@ -32,11 +32,11 @@ author: MilleXi
 ### 1950年：图灵测试的提出
 **艾伦·图灵（Alan Turing）**是AI领域的先驱之一。他在1950年提出了一个著名的问题：“机器能思考吗？”在他的论文《计算机器与智能》中，图灵提出了一种方法来检验机器是否具有智能，这就是后来被称为 **“图灵测试”** 的概念。
 
-![Alan Turing](https://millexi.github.io/images/3.png#pic_center =600x600)
+![Alan Turing](https://millexi.github.io/images/3.png)
 
 图灵测试的核心思想是，如果一个人通过文字交流无法分辨出是在和人类还是机器交谈，那么这台机器就可以被认为具备了“智能”。这虽然不是衡量机器智能的唯一标准，但它引发了人们对机器智能本质的深入思考。
 
-![The Turing Test](https://millexi.github.io/images/4.png#pic_center =600x600)
+![The Turing Test](https://millexi.github.io/images/4.png)
 
 在图灵的时代，计算机的能力非常有限，连基本的对话模拟都无法实现。然而，图灵的思想极具前瞻性，它预示了人工智能领域未来的发展方向。时至今日，许多AI模型和聊天机器人（如GPT系列）都被用来测试是否能够通过图灵测试。
 
@@ -55,10 +55,10 @@ author: MilleXi
 在图灵提出测试后，AI开始成为一个正式的研究领域。20世纪50年代，随着计算机硬件的进步，研究人员开始尝试用机器解决数学难题、进行象棋对弈等简单任务。这个时期的一些经典成就是：
 
 - 1956年，达特茅斯会议被认为是人工智能正式诞生的标志
-![Dartmouth Summer Research Project on Artificial Intelligence](https://millexi.github.io/images/5.png#pic_center =600x600)
+![Dartmouth Summer Research Project on Artificial Intelligence](https://millexi.github.io/images/5.png)
 
 - 1966年，ELIZA程序诞生，这是一个简单的对话系统，模仿心理医生的语气进行对话
-![ELIZA](https://millexi.github.io/images/6.png#pic_center =600x600)
+![ELIZA](https://millexi.github.io/images/6.png)
 
 然而，由于技术受限和人们对AI能力的过高期望，到了70年代，AI研究进入了第一个“寒冬”，资金和兴趣的减少使得AI的发展速度放缓。
 
@@ -66,7 +66,7 @@ author: MilleXi
 ### 20世纪80-90年代：知识推理与专家系统
 随着计算机技术的进步，AI研究在80年代迎来了第二次热潮。这个时期的重点是专家系统，它们模拟人类专家的知识和推理过程，帮助解决特定领域的问题，例如医学诊断和金融分析。专家系统能够存储大量的知识库，并通过逻辑推理得出结论。
 
-![Expert Systems](https://millexi.github.io/images/7.png#pic_center =600x600)
+![Expert Systems](https://millexi.github.io/images/7.png)
 
 尽管专家系统在特定领域表现出色，但由于它们对特定领域知识的高度依赖，通用性较差，AI再次进入低谷期。
 
@@ -76,7 +76,7 @@ author: MilleXi
 
 在这些进步的背后，计算能力的飞跃和大数据的积累是不可忽视的推动力。如今，AI在图像识别、语音识别、自动驾驶、自然语言处理等领域取得了巨大的进步。
 
-![AI Map](https://millexi.github.io/images/8.png#pic_center =600x600)
+![AI Map](https://millexi.github.io/images/8.png)
 
 从图灵测试到现代AI，我们来总结一下，从图灵测试的提出，到如今AI已经能够模拟出复杂的语言对话、处理图像并作出智能决策，人工智能的发展历程充满了挑战与突破。图灵所提出的问题，至今仍然是AI领域的核心之一：机器是否能像人一样思考？接下来，我们将进一步深入探讨现代AI的核心技术和应用领域。
 
@@ -112,7 +112,7 @@ author: MilleXi
 
 **机器学习**是人工智能的基础，通过大量的数据驱动让模型学习模式，优化决策过程。其核心思想是让机器在没有明确规则的情况下，从数据中自动学习。例如，股票价格预测，通过历史市场数据来寻找价格的趋势模式，而在医疗诊断中，机器学习可以通过大量的医学影像数据，找到特定疾病的特征。
 
-![ML](https://millexi.github.io/images/9.png#pic_center =600x600)
+![ML](https://millexi.github.io/images/9.png)
 
 1. 线性回归 (Linear Regression) -- 适用于连续型目标变量的预测，基于输入特征与目标变量之间的线性关系。最常用于经济预测、风险评估等。
 2. 逻辑回归 (Logistic Regression) -- 用于二分类问题，通过估计事件的概率解决分类问题。广泛应用于医学诊断、垃圾邮件检测等领域。
@@ -128,7 +128,7 @@ author: MilleXi
 12. 卷积神经网络 (Convolutional Neural Networks, CNNs) -- 主要用于处理图像和视频数据，广泛应用于图像分类、目标检测、面部识别等领域。
 13. 自编码器 (Autoencoder) -- 一种用于无监督学习的神经网络模型，主要用于数据降维、去噪、生成模型等。
 14. XGBoost (Extreme Gradient Boosting) -- 一种基于梯度提升的高效实现，性能出色，常用于数据竞赛、结构化数据的回归和分类任务。
-![ML](https://millexi.github.io/images/10.png#pic_center =600x600)
+![ML](https://millexi.github.io/images/10.png)
 
 下面是一个简单的逻辑回归示例的结果
 <video src="https://millexi.github.io/images/download.mp4" controls="controls" width="600" height="600"></video>
@@ -140,13 +140,13 @@ or
 
 
 ### 深度学习：模仿人类大脑的神经网络
-![DL](https://millexi.github.io/images/11.png#pic_center =600x600)
+![DL](https://millexi.github.io/images/11.png)
 
 深度学习是机器学习的一个子集，采用的是人工神经网络的结构，特别擅长处理复杂的非线性问题。它通过层层抽象的方式，逐步从输入数据中提取特征。
-![Neural Network](https://millexi.github.io/images/12.png#pic_center =600x600)
+![Neural Network](https://millexi.github.io/images/12.png)
 
 一个经典的例子就是卷积神经网络 (CNN)，它专门用于处理图像数据。
-![CNN](https://millexi.github.io/images/13.png#pic_center =600x600)
+![CNN](https://millexi.github.io/images/13.png)
 
 CNN的工作原理：CNN的核心是卷积层和池化层。卷积层通过卷积核扫描图像，提取低级特征如边缘、颜色等，而池化层则缩减数据的维度，保留重要信息。随着网络层数的增加，CNN可以提取更高级的特征，如物体形状、结构等。
 
