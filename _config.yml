@@ -1,8 +1,8 @@
 name: "MilleXi's blog"
 description: "MilleXi的个人技术博客"
 
-avatar: https://MilleXi.github.io/images/avatar.png
-favicon: https://MilleXi.github.io/images/favicon.ico
+avatar: https://raw.githubusercontent.com/MilleXi/MilleXi.github.io/refs/heads/main/images/avatar.jpg
+favicon: https://raw.githubusercontent.com/MilleXi/MilleXi.github.io/refs/heads/main/images/favicon.ico
 
 navigation:
   - name: 首页
