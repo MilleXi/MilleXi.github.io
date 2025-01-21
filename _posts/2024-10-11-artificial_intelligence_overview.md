@@ -177,7 +177,7 @@ author: MilleXi
 
 *相关逻辑回归演示代码：*
 
-- [github 链接](https://github.com/MilleXi/MilleXi.github.io/logistic_regression_code.ipynb)
+- [github 链接](https://github.com/MilleXi/MilleXi.github.io/blob/main/logistic_regression_code.ipynb)
 
 or
 
