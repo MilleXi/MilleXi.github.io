@@ -630,6 +630,7 @@ Matplotlib 具有强大的定制功能，允许我们对图表进行细粒度的
     
     plt.show()
     ```
+
 ## 恭喜！闯关成功！！
 
 至此，你已经基本掌握了python、numpy、matplotlib、jupyter notebook的基础语法和基本使用方法啦！
