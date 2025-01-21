@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "python安装与配置指南"
+title: "Python安装与配置指南"
 date:   2024-10-17
 tags: [tech]
 comments: true
