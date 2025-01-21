@@ -505,9 +505,9 @@ Matplotlib 的核心模块是 **`pyplot`**，它提供了一系列函数来控�
 
 - 导入 Matplotlib 的 `pyplot` 模块：
 
-```python
-import matplotlib.pyplot as plt  # 简化引用
-```
+    ```python
+    import matplotlib.pyplot as plt  # 简化引用
+    ```
 
 ### 4. 实战：绘制“冒险路线图”
 
