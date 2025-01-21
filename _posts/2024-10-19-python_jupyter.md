@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Python & Jupyter入门"
-date:   2024-10-17
+date:   2024-10-19
 tags: [lecture]
 comments: true
 author: MilleXi
