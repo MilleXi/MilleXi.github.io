@@ -507,7 +507,11 @@ Matplotlib 的核心模块是 **`pyplot`**，它提供了一系列函数来控�
 
     ```python
     import matplotlib.pyplot as plt  # 简化引用
+    import matplotlib as mpl
+    mpl.rcParams['font.sans-serif']=['SimHei'] #指定默认字体为黑体
     ```
+    
+    - 注意，最后两行是一个亲测最简单的可以使Matplotlib正常显示中文而非乱码的代码，非常好用
 
 ### 4. 实战：绘制“冒险路线图”
 
