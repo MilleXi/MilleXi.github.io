@@ -11,6 +11,8 @@ navigation:
     url: /about
   - name: 分类
     url: /tags
+  - name: 友链
+    url: /blogroll
 
 paginate: 8
 
