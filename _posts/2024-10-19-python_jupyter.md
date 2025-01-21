@@ -10,7 +10,7 @@ author: MilleXi
 ###### 讲座目标：让零基础的同学通过轻松有趣的方式初步掌握 Python 编程，并且能使用 Jupyter Notebook 进行实际操作。学习 Python 基础语法，了解 NumPy 的强大功能，最后通过可视化数据带给大家直观的成就感
 
 <!-- more -->
-###### 本文内容配套代码指路：[填空版](https://github.com/MilleXi/MilleXi.github.io/py&jupyter_blank.ipynb)，[完整版](https://github.com/MilleXi/MilleXi.github.io/py&jupyter_example.ipynb)
+###### 本文内容配套代码指路：[填空版](https://github.com/MilleXi/MilleXi.github.io/blob/main/py%26jupyter_blank.ipynb)，[完整版](https://github.com/MilleXi/MilleXi.github.io/blob/main/py%26jupyter_example.ipynb)
 
 ## 一、欢迎来到“Python 冒险之旅”
 
@@ -510,7 +510,7 @@ Matplotlib 的核心模块是 **`pyplot`**，它提供了一系列函数来控�
     import matplotlib as mpl
     mpl.rcParams['font.sans-serif']=['SimHei'] #指定默认字体为黑体
     ```
-    
+
     - 注意，最后两行是一个亲测最简单的可以使Matplotlib正常显示中文而非乱码的代码，非常好用
 
 ### 4. 实战：绘制“冒险路线图”
