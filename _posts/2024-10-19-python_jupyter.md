@@ -497,13 +497,13 @@ Matplotlib 的核心模块是 **`pyplot`**，它提供了一系列函数来控�
 
 ### **3. 安装与导入 Matplotlib**
 
-如果还没有安装 Matplotlib，可以通过以下命令安装：
+- 如果还没有安装 Matplotlib，可以通过以下命令安装：
 
-```bash
-pip install matplotlib
-```
+    ```bash
+    pip install matplotlib
+    ```
 
-导入 Matplotlib 的 `pyplot` 模块：
+- 导入 Matplotlib 的 `pyplot` 模块：
 
 ```python
 import matplotlib.pyplot as plt  # 简化引用
