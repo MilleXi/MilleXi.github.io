@@ -75,7 +75,9 @@ Trading Wars是一个创新的平台，旨在通过模拟真实的股票交易�
 
 - 积分系统：玩家可以根据表现获得或失去积分，积分可以用于购买游戏内的道具。
 
-演示视频：[Trading Wars Demo: Game Guide -- youtube](https://www.youtube.com/watch?v=E7QLd853hZ0)  或者  [bilibili](https://www.bilibili.com/video/BV1GkbfeHEPw/?spm_id_from=333.1387.homepage.video_card.click&vd_source=2fedf95f47b9aa1f063c7fcc2d02ed9e) ~~
+演示视频：[Trading Wars Demo: Game Guide -- youtube](https://www.youtube.com/watch?v=E7QLd853hZ0) 
+
+<iframe src="//player.bilibili.com/player.html?bvid=BV1GkbfeHEPw" scrolling="no" border="0" frameborder="no" framespacing="0" width="100%" height="500" allowfullscreen="true"></iframe>
 
 项目链接：[Trading Wars -- github](https://github.com/MilleXi/trading_competition_platform)，欢迎大家有兴趣的话关注哦！
 
