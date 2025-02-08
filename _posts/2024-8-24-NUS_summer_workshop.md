@@ -13,29 +13,29 @@ author: MilleXi
 
 作为一个第一次独自踏出国门的大二学生，新加坡给我的第一印象是干净、有序且充满活力。从樟宜机场的绝美室内瀑布开始，我就被这座城市的现代化与自然景观的完美结合所震撼。新加坡的多元文化也让我感到新奇，无论是华人、马来人、印度人还是其他族裔，大家和谐共处，形成了独特的文化氛围。在周末的闲暇时光里，我打卡了新加坡植物园，感受了热带植物的繁茂与宁静；在环球影城与大黄蜂合影，体验了刺激的游乐设施；国庆烟花秀的绚烂让我感受到了新加坡的爱国情怀；亚洲最大的摩天轮让我俯瞰了整个城市的壮丽景色；滨海湾金沙酒店的现代建筑与滨海湾的夜景交相辉映，成为了我相机中最美的风景之一。此外，新加坡的美食也让我流连忘返，沙爹烤串、海南鸡饭、辣椒螃蟹等特色美食让我在味蕾上体验到了这座城市的多元文化。
 
-<img src="https://millexi.github.io/images/nus7.png" alt="sg" style="display: block; margin: 0 auto;width: 95%; max-width: 500px; height: auto;">
+<img src="https://millexi.github.io/images/nus7.png" alt="sg" style="display: block; margin: 0 auto;width: 95%; max-width: 700px; height: auto;">
 
-<img src="https://millexi.github.io/images/nus6.png" alt="sg" style="display: block; margin: 0 auto;width: 95%; max-width: 500px; height: auto;">
+<img src="https://millexi.github.io/images/nus6.png" alt="sg" style="display: block; margin: 0 auto;width: 95%; max-width: 700px; height: auto;">
 
 ## NUS的学习与生活：充实而难忘的一个月
 
 在新加坡国立大学（NUS）的一个月，我不仅学到了前沿的计算机知识，还深刻感受到了这所世界顶尖学府的学术氛围和人文关怀。NUS的校园环境非常优美，现代化的教学楼与绿树成荫的校园相得益彰。学校的设施非常完善，尤其是计算机学院的实验室和讨论室，为我们提供了良好的学习和讨论环境。每天穿梭在COM1、COM2、COM3等教学楼之间，我感受到了浓厚的学术氛围。
 
-<img src="https://millexi.github.io/images/nus3.png" alt="nus" style="display: block; margin: 0 auto;width: 95%; max-width: 500px; height: auto;">
+<img src="https://millexi.github.io/images/nus3.png" alt="nus" style="display: block; margin: 0 auto;width: 95%; max-width: 700px; height: auto;">
 
 在NUS的学习生活中，我选择了修读AI/ML for Financial Services这门课程，课程内容涵盖了人工智能和机器学习在金融领域的应用。教授们不仅学术造诣深厚，授课风格也非常生动有趣，尤其是我们的主讲教授Anand Bhojan，他深入浅出的讲解让我对复杂的算法有了更深刻的理解。课程中，我们还进行了大量的实践操作，通过编写代码、调试模型，我逐渐掌握了如何将理论知识应用到实际问题中。两位助教老师也非常耐心，不仅在课堂上为我们答疑解惑，还在课后帮助我们解决项目中的技术难题。每次上课，我都感受到知识的海洋是如此广阔，不由得感叹一个月的时间太短，还有好多关于AI和金融的知识没来得及深入学习。
 
-<img src="https://millexi.github.io/images/nus5.png" alt="nus" style="display: block; margin: 0 auto;width: 95%; max-width: 500px; height: auto;">
+<img src="https://millexi.github.io/images/nus5.png" alt="nus" style="display: block; margin: 0 auto;width: 95%; max-width: 700px; height: auto;">
 
 ### NUS的食堂与住宿：温馨与便利的生活体验
 
 在NUS的生活中，食堂是我每天最期待的地方之一。NUS的食堂种类丰富，味道美味，价格也非常实惠。无论是中餐、西餐还是马来风味，都能在食堂中找到。尤其是UTown附近的食堂，成为了我和同学们经常光顾的地方。每次用餐，我都能品尝到不同的美食，感受到新加坡多元文化的魅力。
 
-<img src="https://millexi.github.io/images/nus2.png" alt="sg" style="display: block; margin: 0 auto;width: 95%; max-width: 500px; height: auto;">
+<img src="https://millexi.github.io/images/nus2.png" alt="sg" style="display: block; margin: 0 auto;width: 95%; max-width: 700px; height: auto;">
 
 住宿方面，我住在Prince George's Park Residence (PGPR)，这里的环境非常好。每个人都有一个独立的小房间，设备一应俱全，既保证了私人空间，又非常温馨。房间里的书桌、衣柜、床铺都非常舒适，让我在忙碌的学习之余能够有一个安静的休息空间。PGPR的公共区域也很宽敞，经常可以看到同学们在这里讨论项目或者放松聊天，我所在的LightHouse楼下不远就有自助无人24H便利店，非常的方便，我晚上经常偷摸跑去给自己“加餐”买碗泡面当夜宵吃，嘻嘻。
 
-<img src="https://millexi.github.io/images/nus4.png" alt="sg" style="display: block; margin: 0 auto;width: 95%; max-width: 500px; height: auto;">
+<img src="https://millexi.github.io/images/nus4.png" alt="sg" style="display: block; margin: 0 auto;width: 95%; max-width: 700px; height: auto;">
 
 ### NUS的校内交通：便捷的橙色巴士
 
@@ -51,7 +51,7 @@ NUS的校内交通非常便捷，尤其是那抹橙色的校内巴士，成为�
 
 在这次暑期工作坊中，我们还需要利用所学知识团队合作完成一个Project，我们队在商讨后决定做一款与金融投资相关的模拟游戏，于是就有了 **Trading Wars: Human vs AI Stock Trading Game**！我们使用Flask、ReactJS实现了前后端，利用雅虎Finance上的真实股票历史数据，结合LSTM、LightGBM、XGBoost等算法，构建了一个人与AI的虚拟股票投资竞赛平台。这个项目不仅让我在技术上得到了极大的提升，也让我深刻体会到了团队合作的重要性。
 
-<img src="https://millexi.github.io/images/nus8.png" alt="poster" style="display: block; margin: 0 auto;width: 95%; max-width: 500px; height: auto;">
+<img src="https://millexi.github.io/images/nus8.png" alt="poster" style="display: block; margin: 0 auto;width: 95%; max-width: 700px; height: auto;">
 
 #### 项目概述：
 
@@ -105,7 +105,7 @@ Trading Wars是一个创新的平台，旨在通过模拟真实的股票交易�
 
 最终，我在AI/ML for Financial Services课程中获得了A+的评分，我们的项目Trading Wars也荣获了First Prize。这不仅是对我一个月来努力的肯定，也是对我未来学习和工作的激励。我相信，这段经历将成为我人生中的宝贵财富，激励我在未来的道路上不断前行。
 
-<img src="https://millexi.github.io/images/nus1.png" alt="nus" style="display: block; margin: 0 auto;width: 95%; max-width: 500px; height: auto;">
+<img src="https://millexi.github.io/images/nus1.png" alt="nus" style="display: block; margin: 0 auto;width: 95%; max-width: 700px; height: auto;">
 
 ## 最后的感谢
 
