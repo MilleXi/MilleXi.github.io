@@ -2,7 +2,7 @@
 layout: post
 title: "2024 NUS SoC Summer Workshop"
 date:   2024-8-24
-tags: [lecture]
+tags: [study]
 comments: true
 author: MilleXi
 ---
@@ -49,7 +49,7 @@ NUS的校内交通非常便捷，尤其是那抹橙色的校内巴士，成为�
 
 ### 项目经历：Trading Wars - 人类与AI的股票交易竞赛平台
 
-在这次Summer Workshop中，我们还需要利用所学知识在团队合作过程中完成一个Project，我们队四个人在商讨后决定做一款与金融投资相关的模拟游戏，于是就有了 **Trading Wars: Human vs AI Stock Trading Game** ！我们使用Flask、ReactJS实现了前后端，利用雅虎Finance上的真实股票历史数据，结合LSTM、LightGBM、XGBoost等算法，构建了一个人与AI的虚拟股票投资竞赛平台。这个项目不仅让我在技术上得到了极大的提升，也让我深刻体会到了团队合作的重要性。
+在这次Summer Workshop中，我们还需要利用所学知识在团队合作过程中完成一个Project，我们队四个人在商讨后决定做一款与金融投资相关的模拟游戏，于是就有了 **Trading Wars: Human vs AI Stock Trading Game** ！我们使用Flask和React实现了前后端，利用雅虎Finance上的真实股票历史数据，结合LSTM、LightGBM、XGBoost等算法，构建了一个人与AI的虚拟股票投资竞赛平台。这个项目不仅让我在技术上得到了极大的提升，也让我深刻体会到了团队合作的重要性。
 
 <img src="https://millexi.github.io/images/nus8.png" alt="poster" style="display: block; margin: 0 auto;width: 95%; max-width: 700px; height: auto;">
 
