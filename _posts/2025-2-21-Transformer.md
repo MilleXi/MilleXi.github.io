@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Transformer：NLP革命的引擎"
-date:   2025-2-21
+date: 2025-2-21
 tags: [lecture]
 comments: true
 author: MilleXi
