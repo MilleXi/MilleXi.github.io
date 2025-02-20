@@ -1,8 +1,8 @@
 ---
 layout: post
 title: "Transformer：NLP革命的引擎"
-date:   2025-2-20
-tags: [tech]
+date:   2025-02-20
+tags: [lecture]
 comments: true
 author: MilleXi
 ---
@@ -229,7 +229,7 @@ Transformer 主要由**编码器（Encoder）**和**解码器（Decoder）**组�
 - **层归一化（Layer Normalization）**
 - **位置编码（Positional Encoding）**
 
-<img src="https://millexi.github.io/images/71.png" alt="transformer1" style="display: block; margin: 0 auto; width: 50%; max-width: 500px; height: auto;">
+<img src="https://millexi.github.io/images/71.png" alt="transformer1" style="display: block; margin: 0 auto; width: 50%; max-width: 700px; height: auto;">
 
 ### **3.1 整体结构：Encoder和Decoder的“流水线”**
 
@@ -245,7 +245,7 @@ Transformer 的架构由 **N 层 Encoder + N 层 Decoder 组成**，其中：
     - **交互 Attention** 使解码器能够利用编码器的输出，以生成更符合上下文的翻译或文本。
 - **核心模块**：Self-Attention（自注意力）、前馈网络、残差连接。
 
-<img src="https://millexi.github.io/images/72.png" alt="transformer2" style="display: block; margin: 0 auto; width: 50%; max-width: 500px; height: auto;">
+<img src="https://millexi.github.io/images/72.png" alt="transformer2" style="display: block; margin: 0 auto; width: 50%; max-width: 700px; height: auto;">
 
 ### **3.2 Self-Attention：让词与词直接“对话”**
 
