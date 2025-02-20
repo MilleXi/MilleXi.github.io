@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "2024 NUS SoC Summer Workshop"
-date:   2024-8-24
+date:   2024-08-24
 tags: [study]
 comments: true
 author: MilleXi

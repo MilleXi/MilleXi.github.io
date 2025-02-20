@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "用户手册"
-date:   2024-1-26
+date:   2024-01-26
 tags: [notice]
 comments: true
 author: MilleXi
