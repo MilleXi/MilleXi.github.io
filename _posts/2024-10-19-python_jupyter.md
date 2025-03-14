@@ -12,6 +12,8 @@ author: MilleXi
 <!-- more -->
 ###### 本文内容配套代码指路：[填空版](https://github.com/MilleXi/MilleXi.github.io/blob/main/py%26jupyter_blank.ipynb)，[完整版](https://github.com/MilleXi/MilleXi.github.io/blob/main/py%26jupyter_example.ipynb)
 
+###### 附贴心的vscode上安装配置python&jupyter的word文档：[安装配置教程](https://github.com/MilleXi/MilleXi.github.io/blob/main/vscode安装配置.docx)
+
 ## 一、欢迎来到“Python 冒险之旅”
 
 ### 1. Python介绍
