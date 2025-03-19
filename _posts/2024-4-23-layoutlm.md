@@ -9,21 +9,21 @@ author: MilleXi
 笔者印象非常深刻的论文之一，也是笔者在自己的专利（申请ing）中曾参考过的一篇论文，也曾尝试扒过代码，总的来说确实是非常强的智能文档AI模型，不愧是MSR出手，推推推！so，浅浅做个阅读小记...
 <!-- more -->
 
-**题目：**
+## **题目：**
 LayoutLMv3: Pre-training for Document AI with Unified Text and Image Masking
 
-**论文背景：**
+### **论文背景：**
 近年来，文档AI（Document AI）领域在自监督预训练技术的推动下取得了显著进展。该领域的任务包括文档分类、表单理解、收据理解、文档视觉问答（DocVQA）等。然而，现有多模态预训练模型在文本和图像模态的处理上存在较大差异，使得跨模态对齐（Cross-modal Alignment）成为一个挑战。
 
 传统方法通常在文本模态上使用BERT提出的掩码语言模型（MLM）进行预训练，而在图像模态上采用不同的方法，例如像DocFormer使用CNN解码器重建像素信息，而SelfDoc则采用回归掩码区域特征的方法。这些方法导致文本与图像的特征粒度不匹配，使得跨模态表示学习更加困难。
 
-**论文的Motivation：**
+### **论文的Motivation：**
 为了缓解文本和图像模态之间的预训练目标差异，并促进多模态表示学习，作者提出了LayoutLMv3。该方法的核心创新点包括：
 1. **统一的文本和图像掩码机制（Unified Text and Image Masking）**：在文本和图像两种模态上均采用掩码预测任务（MLM + MIM）。
 2. **词-补丁对齐目标（Word-Patch Alignment, WPA）**：提出了一种新的对齐机制，以学习文本词和对应图像补丁之间的对齐关系。
 3. **移除CNN依赖**：不同于LayoutLMv2依赖CNN或Faster R-CNN提取图像特征，LayoutLMv3直接采用ViT风格的线性投影（Linear Projection）来处理图像。
 
-**方法论：**
+## **方法论：**
 
 ### **1. 模型架构**
 LayoutLMv3 采用了多层 Transformer 结构，每一层主要由**多头自注意力（Multi-head Self-Attention, MSA）**和**前馈神经网络（Feed-forward Network, FFN）**组成。输入由**文本嵌入（Text Embedding）**和**图像嵌入（Image Embedding）**组成：
@@ -45,7 +45,7 @@ LayoutLMv3 采用了三大预训练目标：
    - 提出 WPA 任务：如果一个文本 Token 对应的图像补丁未被 Mask，则其对齐标签为**Aligned**，否则为**Unaligned**。
    - 通过二分类任务（Binary Classification）来预测是否为 Aligned/Unaligned。
 
-**实验与结果：**
+## **实验与结果：**
 
 ### **1. 数据集**
 LayoutLMv3 在 IIT-CDIP 数据集（约 1100 万文档图像）上进行预训练，并在多个公共基准数据集上进行微调：
@@ -77,8 +77,8 @@ LayoutLMv3 在所有任务上均达到了 SOTA 性能：
 
 ---
 
-**LayoutLMv3 相较于 LayoutLMv2 的改进点：**
-|  | LayoutLMv2 | LayoutLMv3 |
+## **LayoutLMv3 相较于 LayoutLMv2 的改进点：**
+| 特点 | LayoutLMv2 | LayoutLMv3 |
 | --- | --- | --- |
 | **图像特征提取** | CNN (ResNeXt-101) | 线性投影（ViT 方式） |
 | **预训练目标** | MLM + MIM | MLM + MIM + WPA |
@@ -86,6 +86,6 @@ LayoutLMv3 在所有任务上均达到了 SOTA 性能：
 | **跨模态对齐** | 遮蔽部分文本学习对齐 | WPA 明确对齐任务 |
 | **计算成本** | 高（CNN） | 低（无 CNN） |
 
-**总结：**
+## **总结：**
 LayoutLMv3 通过一体化的预训练目标和更高效的特征提取方式，成为新一代文档 AI 预训练模型，在多个任务上均取得了 SOTA 结果。
 
