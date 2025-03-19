@@ -78,7 +78,8 @@ LayoutLMv3 在所有任务上均达到了 SOTA 性能：
 ---
 
 ## **LayoutLMv3 相较于 LayoutLMv2 的改进点：**
-| 特点 | LayoutLMv2 | LayoutLMv3 |
+
+|  | LayoutLMv2 | LayoutLMv3 |
 | --- | --- | --- |
 | **图像特征提取** | CNN (ResNeXt-101) | 线性投影（ViT 方式） |
 | **预训练目标** | MLM + MIM | MLM + MIM + WPA |
