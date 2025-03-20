@@ -1139,40 +1139,40 @@ class Logger:
 
 1. 运行train.py
 
-<img src="https://millexi.github.io/images/im1.png" alt="img1" style="display: block; margin: 0 auto; width: 100%; max-width: 800px; height: auto;">
+    <img src="https://millexi.github.io/images/im1.png" alt="img1" style="display: block; margin: 0 auto; width: 100%; max-width: 800px; height: auto;">
 
-<img src="https://millexi.github.io/images/im2.png" alt="img2" style="display: block; margin: 0 auto; width: 100%; max-width: 800px; height: auto;">
+    <img src="https://millexi.github.io/images/im2.png" alt="img2" style="display: block; margin: 0 auto; width: 100%; max-width: 800px; height: auto;">
 
-<img src="https://millexi.github.io/images/im3.png" alt="img3" style="display: block; margin: 0 auto; width: 100%; max-width: 800px; height: auto;">
+    <img src="https://millexi.github.io/images/im3.png" alt="img3" style="display: block; margin: 0 auto; width: 100%; max-width: 800px; height: auto;">
 
-<img src="https://millexi.github.io/images/im4.png" alt="img4" style="display: block; margin: 0 auto; width: 100%; max-width: 800px; height: auto;">
+    <img src="https://millexi.github.io/images/im4.png" alt="img4" style="display: block; margin: 0 auto; width: 100%; max-width: 800px; height: auto;">
 
-<img src="https://millexi.github.io/images/im5.png" alt="img5" style="display: block; margin: 0 auto; width: 100%; max-width: 800px; height: auto;">
+    <img src="https://millexi.github.io/images/im5.png" alt="img5" style="display: block; margin: 0 auto; width: 100%; max-width: 800px; height: auto;">
 
-<img src="https://millexi.github.io/images/im6.png" alt="img6" style="display: block; margin: 0 auto; width: 100%; max-width: 800px; height: auto;">
+    <img src="https://millexi.github.io/images/im6.png" alt="img6" style="display: block; margin: 0 auto; width: 100%; max-width: 800px; height: auto;">
 
-<img src="https://millexi.github.io/images/im7.png" alt="img7" style="display: block; margin: 0 auto; width: 100%; max-width: 800px; height: auto;">
+    <img src="https://millexi.github.io/images/im7.png" alt="img7" style="display: block; margin: 0 auto; width: 100%; max-width: 800px; height: auto;">
 
-<img src="https://millexi.github.io/images/im8.png" alt="img8" style="display: block; margin: 0 auto; width: 100%; max-width: 800px; height: auto;">
+    <img src="https://millexi.github.io/images/im8.png" alt="img8" style="display: block; margin: 0 auto; width: 100%; max-width: 800px; height: auto;">
 
-生成的模型结构图与训练趋势图
+    生成的模型结构图与训练趋势图
 
-<img src="https://millexi.github.io/images/im9.png" alt="img9" style="display: block; margin: 0 auto; width: 100%; max-width: 800px; height: auto;">
+    <img src="https://millexi.github.io/images/im9.png" alt="img9" style="display: block; margin: 0 auto; width: 100%; max-width: 800px; height: auto;">
 
-<img src="https://millexi.github.io/images/im10.png" alt="img10" style="display: block; margin: 0 auto; width: 100%; max-width: 800px; height: auto;">
+    <img src="https://millexi.github.io/images/im10.png" alt="img10" style="display: block; margin: 0 auto; width: 100%; max-width: 800px; height: auto;">
 
 2. 运行evaluate.py
 
-<img src="https://millexi.github.io/images/im11.png" alt="img11" style="display: block; margin: 0 auto; width: 100%; max-width: 800px; height: auto;">
+    <img src="https://millexi.github.io/images/im11.png" alt="img11" style="display: block; margin: 0 auto; width: 100%; max-width: 800px; height: auto;">
 
-<img src="https://millexi.github.io/images/im11.png" alt="img11" style="display: block; margin: 0 auto; width: 100%; max-width: 800px; height: auto;">
+    <img src="https://millexi.github.io/images/im11.png" alt="img11" style="display: block; margin: 0 auto; width: 100%; max-width: 800px; height: auto;">
 
-<img src="https://millexi.github.io/images/im12.png" alt="img12" style="display: block; margin: 0 auto; width: 100%; max-width: 800px; height: auto;">
+    <img src="https://millexi.github.io/images/im12.png" alt="img12" style="display: block; margin: 0 auto; width: 100%; max-width: 800px; height: auto;">
 
 3. 运行gradio_interface.py
 
-<img src="https://millexi.github.io/images/im13.png" alt="img13" style="display: block; margin: 0 auto; width: 100%; max-width: 800px; height: auto;">
+    <img src="https://millexi.github.io/images/im13.png" alt="img13" style="display: block; margin: 0 auto; width: 100%; max-width: 800px; height: auto;">
 
-<img src="https://millexi.github.io/images/im14.png" alt="img14" style="display: block; margin: 0 auto; width: 100%; max-width: 800px; height: auto;">
+    <img src="https://millexi.github.io/images/im14.png" alt="img14" style="display: block; margin: 0 auto; width: 100%; max-width: 800px; height: auto;">
 
-<img src="https://millexi.github.io/images/im15.png" alt="img15" style="display: block; margin: 0 auto; width: 100%; max-width: 800px; height: auto;">
+    <img src="https://millexi.github.io/images/im15.png" alt="img15" style="display: block; margin: 0 auto; width: 100%; max-width: 800px; height: auto;">
