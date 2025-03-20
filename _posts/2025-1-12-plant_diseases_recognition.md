@@ -1,12 +1,12 @@
 ---
 layout: post
 title: "植物叶子病虫害识别"
-date:   2024-10-12
+date:   2025-01-12
 tags: [tech]
 comments: true
 author: MilleXi
 ---
-这是笔者在github上开源的一个小项目，链接：[Plant Diseases Recognition](https://github.com/MilleXi/plant_diseases_recognition)，在此分享给大家，当然，还有可以优化的地方，欢迎讨论！
+这是笔者在github上开源的一个小项目，目前4颗⭐，链接：[Plant Diseases Recognition](https://github.com/MilleXi/plant_diseases_recognition)，在此分享给大家，当然，还有可以优化的地方，欢迎讨论！
 <!-- more -->
 
 ## 任务介绍

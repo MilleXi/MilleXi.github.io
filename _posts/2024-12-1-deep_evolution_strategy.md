@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Deep Evolution Strategy"
-date:   2024-09-01
+date:   2024-12-01
 tags: [tech]
 comments: true
 author: MilleXi
