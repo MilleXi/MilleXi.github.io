@@ -6,8 +6,8 @@ tags: [lecture]
 comments: true
 author: MilleXi
 --- 
-
-> 使用CNN和ResNet18完成图像二分类
+笔者在学校AI社团内刚举办完CV项目实践赛，so组织了一次讲座，供更多的0基础同学入门，一起跟随笔者的脚步~使用CNN和ResNet18完成一个图像二分类任务吧！
+<!-- more -->
 
 ## 一、讲座总览
 
