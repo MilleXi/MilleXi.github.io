@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "0基础AI项目实践入门"
-date:   2025-03-29
+date:   2025-04-19
 tags: [lecture]
 comments: true
 author: MilleXi
