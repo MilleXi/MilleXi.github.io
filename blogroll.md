@@ -16,3 +16,7 @@ permalink: /blogroll/
 
 - Tongji University, Computer Science, PhD
 - 不会说话，热爱技术，希望看到人类科学的飞跃
+
+[晨雾博客](https://chenwumm.github.io/)
+
+- 晨雾㐅是只屑的博客乄一枚小学生的博客
